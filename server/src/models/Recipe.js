@@ -30,3 +30,6 @@ const RecipeSchema = new mongoose.Schema({
 
 const RecipeModel = mongoose.model("recipes", RecipeSchema);
 export default RecipeModel
+
+
+// Cooked with love and hardwork.
